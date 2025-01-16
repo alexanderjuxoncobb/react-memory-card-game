@@ -41,9 +41,9 @@
   color: #888;
 }
 
-* {
+/* * {
   border: 0.1px solid red;
-}
+} */
 
 .header {
   min-height: 100px;
